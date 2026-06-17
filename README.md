@@ -4,10 +4,10 @@ Unofficial Python integrations for MarginEdge.
 
 ## Integrations
 
-- `marginedge_get_purchase_report.py` - `get_purchase_report` (800 live events).
-- `marginedge_get_orders.py` - `get_orders` (10 live events).
-- `marginedge_get_order_detail.py` - `get_order_detail` (4 live events).
-- `marginedge_get_vendors.py` - `get_vendors` (3 live events).
+- `marginedge_get_purchase_report.py` - `get_purchase_report`.
+- `marginedge_get_orders.py` - `get_orders`.
+- `marginedge_get_order_detail.py` - `get_order_detail`.
+- `marginedge_get_vendors.py` - `get_vendors`.
 
 ## Usage
 
